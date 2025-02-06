@@ -1,6 +1,6 @@
 # Comparativa de Bases de Datos
 
-#### ⚠️ El siguiente analisis corresponde a la empiria personal basado en el pragmatismo de diferentes fuentes. No evoca la promocion ni la incitacion a uso de las tecnologias que se detallaran a continuacion. Debe comprender que este analisis es a modo de guia pero puede cambiar dependiendo del contexto de su aplicacion, necesidades e incluso de su experiancia. Uselo con conciencia. 
+#### ⚠️ El siguiente análisis corresponde a la empiria personal basado en el pragmatismo de diferentes fuentes. No evoca la promoción ni la incitacion a uso de las tecnologias que se detallarán a continuación. Debe comprender que este análisis es a modo de guia pero puede cambiar dependiendo del contexto de su aplicacion, necesidades e incluso de su experiencia. Uselo con conciencia. 
 
 
 ## Cuadro Comparativo
