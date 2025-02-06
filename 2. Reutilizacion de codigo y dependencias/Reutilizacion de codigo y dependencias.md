@@ -13,3 +13,10 @@ Se utilizan como referencias, dos de la tecnicas de reutilizacion tales como las
 | **Tolerancia a fallos**    | ❌ Si la librería tiene un bug, todas las apps deben actualizarse. No hay fallback automático. | ✅ Puede desplegarse con alta disponibilidad y manejar errores sin afectar a todas las aplicaciones. |
 | **Escalabilidad**          | ❌ Depende de cada aplicación. No escala de manera independiente. | ✅ Se puede escalar horizontalmente con balanceadores de carga y múltiples instancias. |
 
+
+
+
+# ¿Cuándo usar cada uno?
+
+* **Usar Custom Shared Library** cuando se necesita reutilizar código común sin dependencia de red (ej. validaciones, clientes API, utilidades de encriptación).
+* **Usar Shared Service** cuando varias aplicaciones necesitan acceder a una funcionalidad centralizada y mantener una única fuente de verdad (ej. autenticación, logs, configuración).
