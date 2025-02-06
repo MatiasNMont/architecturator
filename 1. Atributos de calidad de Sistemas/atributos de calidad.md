@@ -1,0 +1,13 @@
+# Atributos de calidad de un sistema.
+
+### El siguiente cuadro contiene la descripción sobre los atributos que se consideran necesarios para considerar un sistema de calidad. Tenga en cuenta que cada uno de los puntos estan sujetos a la realidad de cada sistema y escenario, sin embargo sirven como guia para el buen diseño.
+
+| **Atributo de Calidad**  | **Descripción** | **Ejemplo** |
+|-------------------------|----------------|-------------|
+| **Disponibilidad (Availability)** | Capacidad del sistema para estar operativo y accesible cuando se necesita, minimizando el tiempo de inactividad. | Un servicio de venta online en línea que garantiza un **99.99% de uptime** con infraestructura redundante en múltiples zonas de disponibilidad de AWS. |
+| **Escalabilidad (Scalability)** | Habilidad del sistema para manejar una carga creciente de trabajo, ya sea aumentando recursos verticalmente o horizontalmente. | Un sistema de e-commerce que escala automáticamente su número de instancias en Kubernetes durante eventos como el **Black Friday**. |
+| **Rendimiento (Performance)** | Tiempo de respuesta y eficiencia en el uso de recursos (CPU, memoria, I/O) bajo diferentes condiciones de carga. | Un API que responde en **menos de 200 ms** bajo una carga de 10,000 solicitudes concurrentes gracias a una base de datos en caché con **Redis**. |
+| **Confiabilidad (Reliability)** | Capacidad del sistema para operar sin fallos durante un período determinado. Se mide en términos de tasa de fallos y tiempo medio entre fallos (MTBF). | Un sistema de monitoreo de servidores que tiene una **tolerancia a fallos del 99.95%** mediante la replicación de datos en múltiples regiones. |
+| **Mantenibilidad (Maintainability)** | Facilidad con la que se pueden hacer cambios en el sistema (corrección de errores, mejoras, refactorización) sin afectar su estabilidad. | Un código backend en **Golang** organizado con el patrón **Controller-Service-Repository**, permitiendo agregar nuevas funcionalidades sin afectar otras capas. |
+| **Modularidad (Modularity)** | Nivel de separación de responsabilidades dentro del sistema en componentes independientes y reutilizables. | Un sistema de microservicios donde el **servicio de pagos** y el **servicio de facturación** funcionan de manera independiente y pueden ser desplegados sin afectar al otro. |
+| **Interoperabilidad (Interoperability)** | Capacidad del sistema para comunicarse e integrarse con otros sistemas, servicios o tecnologías. | Un CRM que se integra con **Salesforce, HubSpot y Google Analytics** a través de **APIs REST y Webhooks**. |
