@@ -4,13 +4,13 @@
 
 | Atributo                         | Base de Datos Relacional | MongoDB                | Cassandra             | Redis                   | DynamoDB               | AWS RDS                | Google Cloud SQL      |
 |-----------------------------------|--------------------------|------------------------|-----------------------|-------------------------|------------------------|------------------------|-----------------------|
-| **Facilidad de Aprendizaje**      | ★★★★★                    | ★★★★☆                  | ★★★                   | ★★★★☆                   | ★★★                    | ★★★★★                  | ★★★★★                 |
-| **Facilidad de Modelado de Datos**| ★★★★★                    | ★★★☆☆                  | ★★★                   | ★★★☆☆                   | ★★★                    | ★★★★★                  | ★★★★★                 |
-| **Scalabilidad/Throughput**       | ★★★                      | ★★★★☆                  | ★★★★★                 | ★★★★★                   | ★★★★★                  | ★★★★☆                  | ★★★★                  |
-| **Availability/Partition Tolerance** | ★★★★                    | ★★★★☆                  | ★★★★★                 | ★★★☆☆                   | ★★★★★                  | ★★★★★                  | ★★★★★                 |
-| **Consistencia**                 | ★★★★★                    | ★★★★☆                  | ★★★                   | ★★☆☆☆                   | ★★★                    | ★★★★★                  | ★★★★★                 |
-| **Soporte al Lenguaje**          | ★★★★★                    | ★★★★☆                  | ★★★                   | ★★★★☆                   | ★★★                    | ★★★★★                  | ★★★★★                 |
-| **Prioridad Lectura/Escritura**  | ★★★★                     | ★★★★☆                  | ★★★★                  | ★★★★★                   | ★★★★                   | ★★★★☆                  | ★★★★                  |
+| **Facilidad de Aprendizaje**      | ★★★★★                    | ★★★★                   | ★★★                   | ★★★★                    | ★★★                    | ★★★★★                  | ★★★★★                 |
+| **Facilidad de Modelado de Datos**| ★★★★★                    | ★★★                    | ★★★                   | ★★★                     | ★★★                    | ★★★★★                  | ★★★★★                 |
+| **Scalabilidad/Throughput**       | ★★★                      | ★★★★                   | ★★★★★                 | ★★★★★                   | ★★★★★                  | ★★★★                   | ★★★★                  |
+| **Availability/Partition Tolerance** | ★★★★                    | ★★★★                   | ★★★★★                 | ★★★                     | ★★★★★                  | ★★★★★                  | ★★★★★                 |
+| **Consistencia**                 | ★★★★★                    | ★★★★                   | ★★★                   | ★★                      | ★★★                    | ★★★★★                  | ★★★★★                 |
+| **Soporte al Lenguaje**          | ★★★★★                    | ★★★★                   | ★★★                   | ★★★★                    | ★★★                    | ★★★★★                  | ★★★★★                 |
+| **Prioridad Lectura/Escritura**  | ★★★★                     | ★★★★                   | ★★★★                  | ★★★★★                   | ★★★★                   | ★★★★                   | ★★★★                  |
 
 ## Definición de Atributos
 
