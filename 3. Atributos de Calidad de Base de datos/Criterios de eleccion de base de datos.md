@@ -72,7 +72,4 @@ Elegir la base de datos adecuada es un paso fundamental en el diseño de una apl
 
 ---
 
-## Conclusión
-
-No hay una base de datos única que sea la mejor en todos los casos. La elección debe basarse en las necesidades específicas del proyecto, considerando factores como la estructura de los datos, la escalabilidad, la consistencia y el rendimiento. Evaluar estos aspectos permitirá seleccionar la base de datos más adecuada para cada caso de uso.
 
